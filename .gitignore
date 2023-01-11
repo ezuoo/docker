@@ -1,2 +1,5 @@
 express-example/node_modules
 express-example/.idea
+
+04-docker-compose/express-example/.idea
+04-docker-compose/express-example/node_modules
